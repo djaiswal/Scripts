@@ -24,7 +24,7 @@ to Map the results: https://github.com/djaiswal/Scripts/blob/master/BioCroSimula
 
 #### To postprocess new results  
 1.  Change directory and file name in Sim_map.sh (2)  
-2.  change Source,Resultfolder, mapfolder, output, tmp, and write.table (6)  
+2.  change Source,Resultfolder, mapfolder, output, tmp, and write.table in sugarcane_map.R (6)  
 
 
 
